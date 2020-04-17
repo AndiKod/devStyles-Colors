@@ -1,5 +1,5 @@
 # devStyles Playground
 
----
+Play with **devStyles**, preview the ColorThemes, ...more info soon.
 
-The Sandbox where you can play with **devStyles**, preview the ColorThemes, and why not take it into your dev projects.
+https://devstyles.netlify.app
