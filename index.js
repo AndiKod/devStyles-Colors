@@ -7,6 +7,6 @@ const style = theme => {
 };
 
 // onedark, dracula, monokai, sublime, nightowl, onelight
-style("sublime");
+style("nightowl");
 
 // Head to index.html to change the markup ;)
